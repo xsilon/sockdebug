@@ -1,3 +1,8 @@
 RAW sockets test program.
 
 Project is an eclipse project that can be imported into eclipse.
+
+Build using automake.
+e.g.
+./autogen.sh
+make
